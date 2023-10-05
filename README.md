@@ -1,6 +1,6 @@
 ## - 👋 Olá, meu nome é Eduardo Camilio
 - 👨‍🔬➡️🧑‍💻Engenheiro Químico em transição de carreira para TI.
-- 🐍☕Gosto de Python e Java, quero ser um Dev BackEnd.
+- 🐍☕Programando em Java e Python
 - 💻📱Estudando Análise e Desenvolvimento de Sistemas.
 - 🥣📚💪 Gosto de cozinhar, ler e musculação
 
